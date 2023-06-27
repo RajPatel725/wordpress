@@ -1,0 +1,30 @@
+/*
+Theme Name:   Twenty Twenty Child
+Theme URI:    http://example.com/twenty-fifteen-child/
+Description:  Twenty Twenty Child Theme
+Author:       Raju bhai
+Template:     twentytwentyone
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  twentytwentyonechild
+*/
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container ul{
+    list-style: none;
+    padding: 15px !important;
+}
+.container li {
+    align-items: center;
+    display: flex;
+    margin: 5px 0px;
+}
+.container li input{
+    margin-right: 5px;
+}
