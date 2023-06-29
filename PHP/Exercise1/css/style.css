@@ -1,0 +1,63 @@
+body
+{
+	background:#80808059;
+}
+h1
+{
+	text-align: center;
+}
+.a1{
+  	background-color: gray;
+  	color: white;
+  	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}	
+div{
+	width: 65%;
+	align-content: center;
+}
+table{
+	size: 50%;
+}
+.td1
+{
+	text-align: left;
+}
+.td2
+{
+	border: 1px solid black; 
+	padding: 5px 3px;
+	text-align: left;
+}
+td
+{
+	text-align: right;
+}
+.radio
+{
+	height: 17px; 
+	width: 17px;
+}
+.select{
+	width: 70%;
+	height: 22px;
+}
+.checkbox
+{
+	height: 14px;
+	width: 14px
+}
+.date{
+	width: 68%;
+}
+.file{
+	margin-left: 30%;
+}
+.submit
+{	
+	margin-left: 130%;
+	height: 25px;
+	width: 100px;
+}
